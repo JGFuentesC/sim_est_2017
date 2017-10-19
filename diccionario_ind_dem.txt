@@ -1,0 +1,30 @@
+Población media Total (ambos sexos) :  8 811 266
+Población media hombres : 4 203 031
+Población media mujeres : 4 608 235
+Nacimientos anuales : 123 931
+Defunciones : 60 761
+Emigrantes Internacionales anuales : 11 931
+Inmigrantes Internacionales anuales : 5 671
+Emigrantes Interestatales anuales : 148 374
+Inmigrantes Interestatales anuales : 68 897
+Crecimiento natural anual : 63 170
+Crecimiento social total anual : - 85 737
+Crecimiento total anual : - 22 567
+Esperanza de vida al nacimiento de hombres : 74.05
+Esperanza de vida al nacimiento de mujeres : 78.74
+Esperanza de vida al nacimiento total (ambos sexos) : 76.34
+Migración neta Interestatal anual : - 79 477
+Migración neta Internacional anual : - 6 260
+Tasa de Mortalidad Infantil Hombres (por cada mil nacimientos) : 11.32
+Tasa de Mortalidad Infantil Mujeres (por cada mil nacimientos) : 9.21
+Tasa Mortalidad Infantil Total (por cada mil nacimientos) : 10.29
+Tasa bruta de mortalidad (por cada mil habitantes) : 6.9
+Tasa bruta de natalidad (por cada mil habitantes) : 14.07
+Tasa de crecimiento natural (por cada cien habitantes) : 0.72
+Tasa de crecimiento social total (por cada cien habitantes) : -0.97
+Tasa de crecimiento total (por cada cien habitantes) : -0.26
+Tasa de emigración interestatal (por cada cien habitantes) : 1.68
+Tasa de inmigración interestatal (por cada cien habitantes) : 0.78
+Tasa de migración neta interestatal (por cada cien habitantes) : -0.9
+Tasa de migración neta internacional (por cada cien habitantes) : -0.07
+Tasa global de fecundidad : 1.79
